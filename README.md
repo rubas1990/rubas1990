@@ -1,5 +1,10 @@
 ## Hi there 👋
-[ChatGPT Image 7 may 2025, 12_42_49](https://github.com/user-attachments/assets/043588df-27a7-4391-a560-e2bfb324a630)
+
+
+![ChatGPT Image 7 may 2025, 12_42_49](https://github.com/user-attachments/assets/c542ec76-3e9e-4fcf-85a7-fa3de51d7e6d)
+
+
+
 <!--
 **rubas1990/rubas1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
