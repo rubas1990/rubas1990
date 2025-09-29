@@ -3,7 +3,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rubas1990)
 
 🚀 **Controls & Data Science Engineer | Industry 4.0 Specialist**  
-📍 Saltillo, Mexico | ✉️ rubenmtzn@gmail.com | 📞 +52 844 228 6100  
+📍 Saltillo, Mexico | ✉️ rubenmtzn@gmail.com 
 
 ---
 
