@@ -1,29 +1,42 @@
-## Hi there 👋
-
-
-
+# Hi there 👋, I'm Víctor Rubén Martínez Natividad
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rubas1990)
 
-![ChatGPT Image 7 may 2025, 12_42_49](https://github.com/user-attachments/assets/c542ec76-3e9e-4fcf-85a7-fa3de51d7e6d)
+🚀 **Controls & Data Science Engineer | Industry 4.0 Specialist**  
+📍 Saltillo, Mexico | ✉️ rubenmtzn@gmail.com | 📞 +52 844 228 6100  
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+## About Me
+I have 12+ years leading automation and Industry 4.0 initiatives in global manufacturing.  
+Specialized in PLC–Python integration, predictive maintenance, and digital twins.  
+Proven track record: **25% fewer customer complaints**, **15% OEE boost**, **40% logistics risk reduction**.
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**rubas1990/rubas1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
 
-Here are some ideas to get you started:
+**Automation & Controls:** Allen Bradley, Siemens, Mitsubishi, Omron, HMI/SCADA, Robotics, Digital Twin, Traceability Systems  
+**Programming & Data:** Python (AI/ML, Flask, OpenCV, Pandas, NumPy, YOLO), SQL, Power BI, Predictive Analytics, IIoT  
+**Vision Systems:** Cognex, Keyence  
+**Leadership & Strategy:** Project Management, Lean Manufacturing, Supplier Negotiation, Cost Reduction  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...![ChatGPT Image 7 may 2025, 12_42_49](https://github.com/user-attachments/assets/043588df-27a7-4391-a560-e2bfb324a630)
+---
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubas1990&hide=contribs,prs&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubas1990&layout=compact)](https://github.com/rubas1990/github-readme-stats)
+
+---
+
+## 🏆 Selected Achievements
+- Led global deployment of AI poka-yoke algorithms, cutting customer complaints by **25% YoY**.  
+- Built SQL/Power BI global intelligence platform for **real-time defect monitoring across 6 plants**.  
+- Standardized automation practices worldwide, boosting **OEE by 15%**.  
+- Commissioned **20+ production lines** during greenfield startup projects.  
+
+---
+
+## 📫 Contact Me
+[LinkedIn](https://www.linkedin.com/in/victor-ruben-martinez-natividad-439541a8) | [GitHub](https://github.com/rubas1990) | ✉️ rubenmtzn@gmail.com
